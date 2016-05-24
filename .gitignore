@@ -1,6 +1,7 @@
 *.class
 .DS_Store
 /.metadata
+/.recommenders
 /RemoteSystemsTempFiles
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
