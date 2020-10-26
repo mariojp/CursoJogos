@@ -25,3 +25,12 @@ Fazendo a animação utilizando <code>java.util.Timer</code> e
 
 - Animação 3:
 Fazendo a animação utilizando <code>Thread</code>.
+
+- Sprites 1:
+Colocando a nave e os movimentos.
+
+- Sprites 2:
+Disparando mísseis com a nave. 
+
+- Sprites 3:
+Detectando colisão entre os mísseis e os inimigos.
